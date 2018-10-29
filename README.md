@@ -1,5 +1,7 @@
 #Pratikum 3
 
+#Pratikum 3
+
 ##Latihan1.cpp : mencari bilangan terbesar
 	1. mendeklarasikan jumlah variabel
 	2. mengisi nilai variabel
@@ -12,11 +14,13 @@
             max = a;
 
 	4. mencetak hasil kelayar cout << "bilangan terbesar adalah: " << max << endl;
+
 **flowchart**
-![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS1.png)
-Dengan bahasa kode C++
+![flowchart](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS1.png)
+
 **screenshoot**
 ![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS3.png)
+
 #include <iostream>
 
 using namespace std;
@@ -39,7 +43,6 @@ int main() {
 
     cout << "bilangan terbesar adalah: " << max << endl;
 }
-**flowchart**
 
 Latihan2.cpp : mencari 3 bilangan terbesar
 	1. mendekrasi kan 3 variabel A,B,C
@@ -82,10 +85,13 @@ int main() {
         }
     }
 }
+
 **flowchart**
-![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS4.png)
+![flowchart](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS4.png)
+
 **screenshoot**
 ![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS5.png)
+
 Latihan 3 : susun algoritma untuk menginput 3 buah bilangan bulat, (dianggap ketiga buah bilangan tersebut nilainya tidak sama satu dengan yang lain). kemudian cetaklah bilangan dengan nilai tengah (bukan terbesar juga bukan yang terkecil)
  
 	1. mendeklarasikan 3 variabel A,B,C
