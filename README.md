@@ -15,12 +15,6 @@
 
 	4. mencetak hasil kelayar cout << "bilangan terbesar adalah: " << max << endl;
 
-**flowchart**
-![flowchart](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS1.png)
-
-**screenshoot**
-![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS3.png)
-
 #include <iostream>
 
 using namespace std;
@@ -43,6 +37,12 @@ int main() {
 
     cout << "bilangan terbesar adalah: " << max << endl;
 }
+
+**flowchart**
+![flowchart](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS1.png)
+
+**screenshoot**
+![screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum3/master/SS3.png)
 
 Latihan2.cpp : mencari 3 bilangan terbesar
 	1. mendekrasi kan 3 variabel A,B,C
